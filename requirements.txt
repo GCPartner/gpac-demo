@@ -2,11 +2,9 @@ functions-framework
 Flask
 Markdown
 google-cloud-aiplatform
+tabulate
+# Inactive dependencies (commented out)
+#chromadb~=0.4.3
 #functions-framework~=3.4.0
 #google-cloud-aiplatform~=1.28.1
-
 #shapely<2.0.0
-
-# Inactive dependencies (commented out)
-tabulate
-#chromadb~=0.4.3
