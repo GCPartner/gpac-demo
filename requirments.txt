@@ -1,0 +1,5 @@
+functions-framework~=3.4.0
+Markdown~=3.4
+google-cloud-aiplatform~=1.28.1
+shapely<2.0.0
+#chromadb~=0.4.3

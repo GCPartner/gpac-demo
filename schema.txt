@@ -1,0 +1,74 @@
+[
+  {
+    "name": "url",
+    "type": "STRING"
+  },
+  {
+    "name": "name",
+    "type": "STRING"
+  },
+  {
+    "name": "specialty",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "acceptingstatus",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "gender",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "language",
+    "type": "STRING"
+  },
+  {
+    "name": "services",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "professional",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "fellowship",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "residency",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "affiliations",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "internship",
+    "type": "STRING",
+    "mode": "REPEATED"
+  },
+  {
+    "name": "certifications",
+    "type": "STRING",
+    "mode": "REPEATED"
+
+  },
+  {
+    "name": "address",
+    "type": "STRING"
+  }
+  ,
+  {
+    "name": "address_saddress",
+    "type": "STRING"
+  }
+]
